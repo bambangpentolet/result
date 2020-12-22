@@ -3,3 +3,4 @@ NIM   : 18532939
 Kelas : TI 5B
 Goal  : Android Developer Expert
 Asal  : Madiun, Jawa Timur
+Apa hobi saya?
